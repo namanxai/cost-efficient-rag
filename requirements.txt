@@ -1,0 +1,10 @@
+chromadb
+fastapi
+uvicorn
+pypdf
+beautifulsoup4
+markdown
+numpy
+python-dotenv
+httpx
+scikit-learn
